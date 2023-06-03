@@ -1,0 +1,54 @@
+img {
+	border-radius: 50 %;
+}
+
+body  {
+	background-color:pink;
+	
+}
+
+.hm {
+	color: orange;
+}
+
+.bigFont {
+	font-size:40px;
+	font:Forte;
+}
+
+#specialstyle {
+	color:orange;
+	font-size: 85px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* סגנון נוסף לקונטיינר */
+}
+
+.moria {
+	 display:block;
+	 margin-left:auto;
+	 margin-right:auto;
+	 
+}
+
+.sapir {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#love  {
+	color:brown;
+	font-size: 60px;
+	
+}
+
+.button {
+	
+	
+	
+}
